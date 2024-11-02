@@ -1,1 +1,1 @@
-# Test
+# This is the README for the class
